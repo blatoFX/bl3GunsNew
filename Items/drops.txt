@@ -1,0 +1,94 @@
+```
+---Boss Drops
+King Slime        - Companion           (1/8)
+Eye of Cthulhu    - Maggie              (1/10)
+Eater/Brain       - Psycho Stabber      (1/8)
+Dark Mage         - Skeksil             (1/4)
+Queen Bee         - Hornet              (1/8)
+Skeletron         - Lyuda               (1/6)
+Wall of Flesh     - Hellwalker          (1/8)
+Flying Dutchman   - Lucky 7             (1/12)
+Twins             - Hellshock           (2/20)
+Destroyer         - Night Hawkin        (1/10)
+Prime             - The Lob             (1/10)
+Ogre              - Ogre                (1/4)
+Plantera          - Kaoson              (1/10)
+Pumpking          - Krakatoa            (1/15)
+Ice Queen         - Monarch             (1/15)
+Golem             - Sand Hawk           (1/10)
+Martian Saucer    - ION CANNON          (1/8)
+Betsy             - Ruby's Wrath        (1/3)
+Duke Fishron      - Hyperfocus          (1/8)
+Cultist           - Occultist           (1/6)
+Moon Lord         - Anarchy             (1/10)
+
+---Miniboss Drops
+Solar Pillar      - Smog                (1/6)
+Nebula Pillar     - Yellowcake          (1/6)
+Vortex Pillar     - Light Show          (1/6)
+Stardust Pillar   - OPQ System          (1/6)
+Mothron           - Butcher             (1/7)
+Pirate Captain    - Miscreant           (1/6)
+Mourning Wood     - Devastator          (1/12)
+Headless Horseman - Shredifier          (1/8)
+Yeti              - Little Yeeti        (1/8)
+Everscream        - Backburner          (1/12)
+Santa-NK1         - Scoville            (1/12)
+Dungeon Guardian  - Unkempt Harold      (1/1)
+Goblin Summoner   - Redistributor       (1/6)
+
+---Enemy Drops
+Frost Legion      - Conference Call     (1/55)
+Tim               - Flakker             (1/6)
+Rune Wizard       - Prompt Critical     (1/6)
+Nymph             - Roisen's Thorns     (1/6)
+Sand Elemental    - Lead Sprinkler      (1/6)
+Ice Golem         - Long Musket         (1/6)
+Wyvern            - Sickle              (1/15)
+Doctor Bones      - Sledge's Shotgun    (1/4)
+The Bride/Groom   - Unforgiven          (1/6)
+Paladin           - Face Puncher        (1/8)
+Pinky             - Infinity            (1/5)
+Bone Lee          - Blood Starved Beast (1/12)
+Nailhead          - Dictator            (1/12)
+Clown             - Rebound             (1/12)```
+
+---1.4 Drops
+Queen Slime        - Bitch *
+Empress of Light   - Wedding Invitation *
+Dreadnautilus      - Sawbar *
+Blood Eel          - Heart Breaker
+Hemogoblin Shark   - Flipper *
+Wandering Eye Fish - Soulrender *
+Zombie Merman      - Flood *
+Gnome              - Girth Blaster Elite *
+
+--- General Future Drops
+Mimic
+Ice Mimic
+Corrupt/Crimson Mimic
+Hallowed Mimics
+
+*  == needs to be sprited
++  == needs to be fixed
+// == completed
+
+--- Possible Additions
+Brainstormer
+Reflux
+Nukem
+Nopewpew
+Carrier
+Seventh sense
+Boomer
+Globetrottr
+Love Drill
+
+Basic gun sound: 11
+Flamethrower sound: 34
+Pump shotgun sound: 36
+Heavy shotgun sound: 38
+Sniper shot sound: 40
+Revolver shot sound: 41
+Grenade launcher sound: 61
+Nailgun sound: 108
