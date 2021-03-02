@@ -1,0 +1,3 @@
+displayName = Anointed Armaments : The Borderlands 3 Gun Mod
+author = Blato
+version = 1.0
